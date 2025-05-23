@@ -1,7 +1,7 @@
 # Multi-Scenario Relocation Suitability with Land Use and Zoning Comparisons: Long-Term Community Development in Maui After the 2023 Wildfire
 
   This repository documents the data and scripts for the paper "Multi-Scenario Relocation Suitability with Land Use and Zoning Comparisons: Long-Term Community Development in Maui After the 2023 Wildfire."
-<br> **Authors:** Kanglin Chen*, Bora Ju, Xiaokang Fu, Niall Kirkwood
+<br> **Authors:** Kanglin Chen*, Xiaokang Fu, Bora Ju, Niall Kirkwood
 <br> **Contact:** kanglinchen@fas.harvard.edu
 
 ## Abstract
