@@ -1,6 +1,6 @@
 # Long-Term Relocation Planning in Post-Wildfire Maui: A Multi-Scenario Suitability Approach
 
-This repository documents the data and scripts for the paper "Long-Term Relocation Planning in Post-Wildfire Maui: A Multi-Scenario Suitability Approach," submitted to *Sustainable Cities and Society*.
+This repository documents the data and scripts for the paper "Long-Term Relocation Planning in Post-Wildfire Maui: A Multi-Scenario Suitability Approach," under review by *Sustainable Cities and Society*.
 <br> **Authors:** Kanglin Chen*, Xiaokang Fu, Bora Ju, Niall Kirkwood
 <br> **Contact:** kanglinchen@fas.harvard.edu
 
