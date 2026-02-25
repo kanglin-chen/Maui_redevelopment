@@ -11,4 +11,4 @@ Maui Island experienced a devastating wildfire in August 2023. Given the continu
 Community Development; Climate Change; Hazards; Multi-criteria Decision Making; Land Use Conflict; Zoning
 
 ## File Structures
-<br> scripts: ArcGIS Pro-based arcpy scripts used for this study. Data must first be imported to use the scripts.
+<br> scripts: ArcGIS Pro-based arcpy scripts used for this study. Data need to be imported first to use the scripts.
